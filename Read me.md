@@ -2,7 +2,7 @@ Installation Guide for TwitchBot
 
 Prerequisites
 
-Python 3.8+: Make sure you have Python 3.8 or higher installed.
+Python 3.11.8: Make sure you have Python 3.11.8 or higher installed.
 
 Download from: Python Downloads
 
