@@ -1,0 +1,6 @@
+accelerate==0.32.1
+aiohttp==3.9.3
+aiosignal==1.3.1
+twitchio==2.10.0
+tkinterweb==3.24.7
+asyncio
